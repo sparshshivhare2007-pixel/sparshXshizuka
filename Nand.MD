@@ -14,7 +14,7 @@
     <a href="https://t.me/SHIZUKA_BOTS">
       <img src="https://img.shields.io/badge/Support%20Channel-FF0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Support Channel">
     </a>
-    <a href="https://t.me/SHIMZUKA_SUPPROT">
+    <a href="https://t.me/SHIMZUKA_SUPPORT">
       <img src="https://img.shields.io/badge/Support%20Group-00FF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=FF0000" alt="Support Group">
     </a>
     <a href="https://t.me/HYE_BABU">
