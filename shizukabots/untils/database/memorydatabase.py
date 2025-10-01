@@ -1,9 +1,10 @@
 # Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
-# Location: Supaul, Bihar
+# # Copyright (c) 2025 sparsh baniya <baniya>
+# Location: agra, up 
 #
 # All rights reserved.
 #
-# This code is the intellectual property of Nand Yaduwanshi.
+# This code is the intellectual property of sparsh baniya.
 # You are not allowed to copy, modify, redistribute, or use this
 # code for commercial or personal projects without explicit permission.
 #
@@ -17,7 +18,8 @@
 # - Selling or using commercially
 #
 # Contact for permissions:
-# Email: badboy809075@gmail.com
+# Email: sparshshivhare20007@gmail.com
+
 
 
 import json
@@ -25,7 +27,7 @@ import os
 from typing import Dict, List, Union
 
 import config
-from ShrutiMusic.core.mongo import mongodb
+from sparshXshizuka.core.mongo import mongodb
 
 channeldb = mongodb.cplaymode
 commanddb = mongodb.commands
@@ -671,13 +673,13 @@ async def get_video_bitrate(chat_id: int) -> str:
     }.get(mode, VideoQuality.SD_480p)
 
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
+# ©️ Copyright Reserved - @hye_babu  sparsh baniya 
 
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# ©️ 2025 sparsh baniya  (aka @hye_babu)
+# 🔗 GitHub : https://github.com/sparshshivhare2007-pixel/Sparshmusic
+# 📢 Telegram Channel : https://t.me/shizuka_bots
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From shizukabots
