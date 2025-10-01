@@ -17,7 +17,7 @@ updates:
       - "dependencies"
       - "python"
     assignees:
-      - "NoxxOP"
+      - "sparsh"
     reviewers:
       - "NoxxOP"
     commit-message:
