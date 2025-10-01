@@ -42,7 +42,7 @@
   </a>
   
   ### 🎵 Simple Music Bot
-  <a href="https://github.com/NoxxOP/ShrutixMusic">
+  <a href="https://github.com/sparshshivhare2007-pixel/sparshXshizuka">
     <img src="https://img.shields.io/badge/Simple%20Music%20Bot-FF4000?style=for-the-badge&logo=github&logoColor=white&labelColor=008000" width="280px" alt="Simple Music Bot">
   </a>
   
