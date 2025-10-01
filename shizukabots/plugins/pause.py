@@ -23,11 +23,11 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from ShrutiMusic import app
-from ShrutiMusic.core.call import Nand
-from ShrutiMusic.utils.database import is_music_playing, music_off
-from ShrutiMusic.utils.decorators import AdminRightsCheck
-from ShrutiMusic.utils.inline import close_markup
+from sparshXshizuka import app
+from sparshXshizuka.core.call import Nand
+from sparshXshizuka.utils.database import is_music_playing, music_off
+from sparshXshizuka.utils.decorators import AdminRightsCheck
+from sparshXshizuka.utils.inline import close_markup
 from config import BANNED_USERS
 
 
@@ -43,13 +43,13 @@ async def pause_admin(cli, message: Message, _, chat_id):
     )
 
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
+# ©️ Copyright Reserved - @hye_babu  sparsh baniya 
 
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# ©️ 2025 sparsh baniya  (aka @hye_babu)
+# 🔗 GitHub : https://github.com/sparshshivhare2007-pixel/Sparshmusic
+# 📢 Telegram Channel : https://t.me/shizuka_bots
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From shizukabots
