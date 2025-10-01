@@ -7,7 +7,7 @@ dnspython
 ffmpeg-python
 gitpython
 hachoir
-heroku3
+heroku3 
 httpx[http2]==0.25.2
 motor
 numpy
@@ -34,4 +34,5 @@ youtube-search-python
 # 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
 # 📢 Telegram Channel : https://t.me/ShrutiBots
 # ===========================================
+
 
