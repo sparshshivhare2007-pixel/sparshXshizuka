@@ -1,9 +1,9 @@
-# Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
-# Location: Supaul, Bihar
+# Copyright (c) 2025 sparsh baniya <baniya>
+# Location: agra, up 
 #
 # All rights reserved.
 #
-# This code is the intellectual property of Nand Yaduwanshi.
+# This code is the intellectual property of sparsh baniya.
 # You are not allowed to copy, modify, redistribute, or use this
 # code for commercial or personal projects without explicit permission.
 #
@@ -17,19 +17,19 @@
 # - Selling or using commercially
 #
 # Contact for permissions:
-# Email: badboy809075@gmail.com
+# Email: sparshshivhare20007@gmail.com
 
 
 from pyrogram import filters
 from pyrogram.types import Message
 
-from ShrutiMusic import app
-from ShrutiMusic.core.call import Nand
-from ShrutiMusic.misc import SUDOERS, db
-from ShrutiMusic.utils import AdminRightsCheck
-from ShrutiMusic.utils.database import is_active_chat, is_nonadmin_chat
-from ShrutiMusic.utils.decorators.language import languageCB
-from ShrutiMusic.utils.inline import close_markup, speed_markup
+from sparshXshizuka import app
+from sparshXshizuka.core.call import Nand
+from sparshXshizuka.misc import SUDOERS, db
+from sparshXshizuka.utils import AdminRightsCheck
+from sparshXshizuka.utils.database import is_active_chat, is_nonadmin_chat
+from sparshXshizuka.utils.decorators.language import languageCB
+from sparshXshizuka.utils.inline import close_markup, speed_markup
 from config import BANNED_USERS, adminlist
 
 checker = []
@@ -134,13 +134,13 @@ async def del_back_playlist(client, CallbackQuery, _):
     )
 
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
+# ©️ Copyright Reserved - @hye_babu  sparsh baniya 
 
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# ©️ 2025 sparsh baniya  (aka @hye_babu)
+# 🔗 GitHub : https://github.com/sparshshivhare2007-pixel/Sparshmusic
+# 📢 Telegram Channel : https://t.me/shizuka_bots
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From shizukabots
