@@ -7,7 +7,7 @@
 # You are not allowed to copy, modify, redistribute, or use this
 # code for commercial or personal projects without explicit permission.
 #
-# Allowed:
+# Allowed: 
 # - Forking for personal learning
 # - Submitting improvements via pull requests
 #
