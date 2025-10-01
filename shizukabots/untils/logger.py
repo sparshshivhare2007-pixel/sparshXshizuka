@@ -9,7 +9,7 @@
 #
 # Allowed:
 # - Forking for personal learning
-# - Submitting improvements via pull requests
+# - Submitting improvements via pull requests 
 #
 # Not Allowed:
 # - Claiming this code as your own
