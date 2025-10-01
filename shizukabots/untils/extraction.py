@@ -5,7 +5,7 @@
 #
 # This code is the intellectual property of sparsh baniya.
 # You are not allowed to copy, modify, redistribute, or use this
-# code for commercial or personal projects without explicit permission.
+# code for commercial or personal projects without explicit permission. 
 #
 # Allowed:
 # - Forking for personal learning
