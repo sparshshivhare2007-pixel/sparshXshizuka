@@ -1,9 +1,9 @@
-# Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
-# Location: Supaul, Bihar
+# Copyright (c) 2025 sparsh baniya <baniya>
+# Location: agra, up 
 #
 # All rights reserved.
 #
-# This code is the intellectual property of Nand Yaduwanshi.
+# This code is the intellectual property of sparsh baniya.
 # You are not allowed to copy, modify, redistribute, or use this
 # code for commercial or personal projects without explicit permission.
 #
@@ -17,18 +17,17 @@
 # - Selling or using commercially
 #
 # Contact for permissions:
-# Email: badboy809075@gmail.com
-
+# Email: sparshshivhare20007@gmail.com
 
 import asyncio
 
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 
-from ShrutiMusic import YouTube, app
+from sparshXshizuka import YouTube, app
 from ShrutiMusic.core.call import Nand
-from ShrutiMusic.misc import SUDOERS, db
-from ShrutiMusic.utils.database import (
+from sparshXshizuka.misc import SUDOERS, db
+from sparshXshizuka.utils.database import (
     get_active_chats,
     get_lang,
     get_upvote_count,
@@ -39,12 +38,12 @@ from ShrutiMusic.utils.database import (
     music_on,
     set_loop,
 )
-from ShrutiMusic.utils.decorators.language import languageCB
-from ShrutiMusic.utils.formatters import seconds_to_min
-from ShrutiMusic.utils.inline import close_markup, stream_markup, stream_markup_timer
-from ShrutiMusic.utils.inline.help import help_pannel_page1, help_pannel_page2, help_pannel_page3, help_pannel_page4
-from ShrutiMusic.utils.stream.autoclear import auto_clean
-from ShrutiMusic.utils.thumbnails import gen_thumb
+from sparshXshizuka.utils.decorators.language import languageCB
+from sparshXshizuka.utils.formatters import seconds_to_min
+from sparshXshizuka.utils.inline import close_markup, stream_markup, stream_markup_timer
+from sparshXshizuka.utils.inline.help import help_pannel_page1, help_pannel_page2, help_pannel_page3, help_pannel_page4
+from sparshXshizuka.utils.stream.autoclear import auto_clean
+from sparshXshizuka.utils.thumbnails import gen_thumb
 from config import (
     BANNED_USERS,
     SOUNCLOUD_IMG_URL,
@@ -88,8 +87,8 @@ async def fork_repo_callback(client, query):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🚀 Fᴏʀᴋ Rᴇᴘᴏ", url="https://github.com/NoxxOP/ShrutiMusic/fork"),
-                    InlineKeyboardButton("⚡ Hᴇʀᴏᴋᴜ Dᴇᴘʟᴏʏ", url="https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutiMusic")
+                    InlineKeyboardButton("🚀 Fᴏʀᴋ Rᴇᴘᴏ", url="https://github.com/sparshshivhare2007-pixel/sparshXshizuka/fork"),
+                    InlineKeyboardButton("⚡ Hᴇʀᴏᴋᴜ Dᴇᴘʟᴏʏ", url="https://dashboard.heroku.com/new?template=https://github.com/sparshshivhare2007-pixel/sparshXshizuka")
                 ],
                 [
                     InlineKeyboardButton("🔙 Bᴀᴄᴋ", callback_data="settingsback_helper")
@@ -109,7 +108,7 @@ from config import BANNED_USERS
 
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup
-from ShrutiMusic.utils.inline.start import owner_panel  # Import owner_panel function
+from sparshXshizuka.utils.inline.start import owner_panel  # Import owner_panel function
 from strings import get_string
 from config import BANNED_USERS
 from ShrutiMusic import app
@@ -142,9 +141,9 @@ async def owner_page_cb(client, callback_query):
 
 from pyrogram import filters
 from pyrogram.types import CallbackQuery
-from ShrutiMusic import app
-from ShrutiMusic.core.call import Nand
-from ShrutiMusic.utils import bot_sys_stats
+from sparshXshizuka import app
+from sparshXshizuka.core.call import Nand
+from sparshXshizuka.utils import bot_sys_stats
 import time, psutil, asyncio
 
 def get_readable_time(seconds: int) -> str:
@@ -649,13 +648,14 @@ async def markup_timer():
 asyncio.create_task(markup_timer())
 
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
+
+# ©️ Copyright Reserved - @hye_babu  sparsh baniya 
 
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# ©️ 2025 sparsh baniya  (aka @hye_babu)
+# 🔗 GitHub : https://github.com/sparshshivhare2007-pixel/Sparshmusic
+# 📢 Telegram Channel : https://t.me/shizuka_bots
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From shizukabots
