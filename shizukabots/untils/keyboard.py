@@ -13,7 +13,7 @@
 #
 # Not Allowed:
 # - Claiming this code as your own
-# - Re-uploading without credit or permission
+# - Re-uploading without credit or permission 
 # - Selling or using commercially
 #
 # Contact for permissions:
