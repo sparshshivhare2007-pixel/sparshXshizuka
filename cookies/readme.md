@@ -4,7 +4,7 @@
 
 This folder is dedicated to storing your YouTube cookies file(s) for the Telegram Music Bot.
 
-🗂️ 𝐖𝐡𝐚𝐭 𝐭𝐨 𝐚𝐝𝐝 𝐡𝐞𝐫𝐞?
+🗂️ 𝐖𝐡𝐚𝐭 𝐭𝐨 𝐚𝐝𝐝 𝐡𝐞𝐫𝐞? 
 - Add your YouTube cookies as a `.txt` file inside this folder.
 - You can name the file anything you want (e.g., `sparsh.txt`, `cookies.txt`, etc.).
 - Just make sure the extension is `.txt`.
