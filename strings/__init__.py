@@ -64,4 +64,4 @@ for filename in os.listdir(r"./strings/langs/"):
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From shizukabots
