@@ -1,9 +1,9 @@
-# Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
-# Location: Supaul, Bihar
+# Copyright (c) 2025 sparsh baniya <baniya>
+# Location: agra, up 
 #
 # All rights reserved.
 #
-# This code is the intellectual property of Nand Yaduwanshi.
+# This code is the intellectual property of sparsh baniya.
 # You are not allowed to copy, modify, redistribute, or use this
 # code for commercial or personal projects without explicit permission.
 #
@@ -17,13 +17,13 @@
 # - Selling or using commercially
 #
 # Contact for permissions:
-# Email: badboy809075@gmail.com
+# Email: sparshshivhare20007@gmail.com
 
 
 import random
 
-from ShrutiMusic import userbot
-from ShrutiMusic.core.mongo import mongodb
+from sparshXshizuka import userbot
+from sparshXshizuka.core.mongo import mongodb
 
 db = mongodb.assistants
 
@@ -53,7 +53,7 @@ async def save_assistant(chat_id, number):
 
 
 async def set_assistant(chat_id):
-    from ShrutiMusic.core.userbot import assistants
+    from sparshXshizuka.core.userbot import assistants
 
     ran_assistant = random.choice(assistants)
     assistantdict[chat_id] = ran_assistant
@@ -67,7 +67,7 @@ async def set_assistant(chat_id):
 
 
 async def get_assistant(chat_id: int) -> str:
-    from ShrutiMusic.core.userbot import assistants
+    from sparshXshizuka.core.userbot import assistants
 
     assistant = assistantdict.get(chat_id)
     if not assistant:
@@ -107,7 +107,7 @@ async def set_calls_assistant(chat_id):
 
 
 async def group_assistant(self, chat_id: int) -> int:
-    from ShrutiMusic.core.userbot import assistants
+    from sparshXshizuka.core.userbot import assistants
 
     assistant = assistantdict.get(chat_id)
     if not assistant:
@@ -138,13 +138,13 @@ async def group_assistant(self, chat_id: int) -> int:
         return self.five
 
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
+# ©️ Copyright Reserved - @hye_babu  sparsh baniya 
 
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# ©️ 2025 sparsh baniya  (aka @hye_babu)
+# 🔗 GitHub : https://github.com/sparshshivhare2007-pixel/Sparshmusic
+# 📢 Telegram Channel : https://t.me/shizuka_bots
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From shizukabots
