@@ -1,9 +1,9 @@
-# Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
-# Location: Supaul, Bihar
+# Copyright (c) 2025 sparsh baniya <baniya>
+# Location: agra, up 
 #
 # All rights reserved.
 #
-# This code is the intellectual property of Nand Yaduwanshi.
+# This code is the intellectual property of sparsh baniya.
 # You are not allowed to copy, modify, redistribute, or use this
 # code for commercial or personal projects without explicit permission.
 #
@@ -17,11 +17,11 @@
 # - Selling or using commercially
 #
 # Contact for permissions:
-# Email: badboy809075@gmail.com
+# Email: sparshshivhare20007@gmail.com
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#     ⚙️ CONFIGURATION FILE | Powered By @oye_notty & @sparshq
+#  ⚙️ CONFIGURATION FILE | Powered By @HYE_BABU & @SILENT_HEARTS_SH
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 import os
@@ -55,7 +55,7 @@ HEROKU_API_KEY = os.getenv("HEROKU_API_KEY")
 # 🔄 Git & Update Settings
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/sparshshivhare2007-pixel/Sparshmusic.git")
+UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/sparshshivhare2007-pixel/sparshXshizuka")
 UPSTREAM_BRANCH = os.getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 
@@ -63,12 +63,12 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # 🔗 Support Links
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/SHIMZUKA_NETWORK")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/SHIMZUKA_SUPPORT")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/shizuka_bots")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/Shizuka_support")
 INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/ig_sparshgaming26")
-YOUTUBE = os.getenv("YOUTUBE", "https://t.me/SHIMZUKA_SUPPORT")
-GITHUB = os.getenv("GITHUB", "https://t.me/SHIMZUKA_SUPPORT")
-DONATE = os.getenv("DONATE", "https://t.me/SHIMZUKA_SUPPORT")
+YOUTUBE = os.getenv("YOUTUBE", "https://t.me/Shizuka_support")
+GITHUB = os.getenv("GITHUB", "https://t.me/Shizuka_support")
+DONATE = os.getenv("DONATE", "https://t.me/Shizuka_support")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -112,18 +112,18 @@ AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 # 🖼️ Image URLs (Can be customized)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://graph.org/file/ae01ab36b2fc648fbf253-6f8623bd574f5b1174.jpg")
-PING_IMG_URL = os.getenv("PING_IMG_URL", "https://graph.org/file/879a94d10234eb66ccd79-1f65ba5b2b51ba7912.jpg")
-PLAYLIST_IMG_URL = "https://graph.org/file/879a94d10234eb66ccd79-1f65ba5b2b51ba7912.jpg"
-STATS_IMG_URL = "https://graph.org/file/879a94d10234eb66ccd79-1f65ba5b2b51ba7912.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/879a94d10234eb66ccd79-1f65ba5b2b51ba7912.jpg"
-TELEGRAM_VIDEO_URL = "https://graph.org/file/879a94d10234eb66ccd79-1f65ba5b2b51ba7912.jpg"
-STREAM_IMG_URL = "https://graph.org/file/879a94d10234eb66ccd79-1f65ba5b2b51ba7912.jpg"
-SOUNCLOUD_IMG_URL = "https://graph.org/file/879a94d10234eb66ccd79-1f65ba5b2b51ba7912.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/879a94d10234eb66ccd79-1f65ba5b2b51ba7912.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/879a94d10234eb66ccd79-1f65ba5b2b51ba7912.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/879a94d10234eb66ccd79-1f65ba5b2b51ba7912.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/879a94d10234eb66ccd79-1f65ba5b2b51ba7912.jpg"
+START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/pdo9at.png")
+PING_IMG_URL = os.getenv("PING_IMG_URL", "https://files.catbox.moe/05oj37.png")
+PLAYLIST_IMG_URL = "https://files.catbox.moe/05oj37.png"
+STATS_IMG_URL = "https://files.catbox.moe/eehxb4.jpg""
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/eehxb4.jpg""
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/eehxb4.jpg""
+STREAM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg""
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/eehxb4.jpg""
+YOUTUBE_IMG_URL = "https://files.catbox.moe/eehxb4.jpg""
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg""
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg""
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg""
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🔐 User & Bot State Stores
@@ -164,17 +164,17 @@ if SUPPORT_GROUP:
         )
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#     ✅ CONFIG LOADED SUCCESSFULLY | Designed By @WTF_WhyMeeh
+#     ✅ CONFIG LOADED SUCCESSFULLY | Designed By @HYE_BABU
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
+# ©️ Copyright Reserved - @hye_babu  sparsh baniya 
 
 # ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
+# ©️ 2025 sparsh baniya  (aka @hye_babu)
+# 🔗 GitHub : https://github.com/sparshshivhare2007-pixel/Sparshmusic
+# 📢 Telegram Channel : https://t.me/shizuka_bots
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots 
+# ❤️ Love From shizukabots
