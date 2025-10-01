@@ -1,5 +1,5 @@
 # Copyright (c) 2025 sparsh baniya <baniya>
-# Location: agra, up 
+# Location: agra, up  
 #
 # All rights reserved.
 #
