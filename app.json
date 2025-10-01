@@ -1,12 +1,12 @@
 {
-  "name": "Shruti Music",
+  "name": "sparshXshizuka",
   "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-  "logo": "https://files.catbox.moe/v7hio8.jpg",
+  "logo": "https://files.catbox.moe/8gtp1d.png",
   "keywords": [
     "python3",
     "telegram",
     "bot",
-    "ShrutiBots",
+    "Shizukabots",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -44,12 +44,12 @@
     },
     "BOT_USERNAME": {
       "description": "The username of your bot (without @)",
-      "value": "shimzukaXmusic_robot",
+      "value": "",
       "required": true
     },
     "UPSTREAM_REPO": {
       "description": "URL of your GitHub repository",
-      "value": "https://github.com/sparshshivhare2007-pixel/Sparshmusic.git",
+      "value": "https://github.com/sparshshivhare2007-pixel/sparshXshizuka",
       "required": false
     },
     "STRING_SESSION": {
@@ -79,32 +79,32 @@
     },
     "SUPPORT_GROUP": {
       "description": "Your support group username (without @)",
-      "value": "https://t.me/SHIMZUKA_SUPPORT",
+      "value": "https://t.me/SHIZUKA_SUPPORT",
       "required": false
     },
     "SUPPORT_CHANNEL": {
       "description": "Your support channel username (without @)",
-      "value": "https://t.me/SHIMZUKA_NETWORK",
+      "value": "https://t.me/SHIZUKA_BOTS",
       "required": false
     },
     "INSTAGRAM": {
       "description": "Your Instagram profile link",
-      "value": "https://instagram.com/yaduwanshi_nand",
+      "value": "https://instagram.com/ig_sparshgaming26",
       "required": false
     },
     "YOUTUBE": {
       "description": "Your YouTube channel link",
-      "value": "https://youtube.com/@NandEditz",
+      "value": "https://youtube.com/@muskikadushmaan",
       "required": false
     },
     "GITHUB": {
       "description": "Your GitHub profile link",
-      "value": "https://github.com/NoxxOP",
+      "value": "https://github.com/sparshshivhare2007-pixel",
       "required": false
     },
     "DONATE": {
       "description": "Link where people can support/donate",
-      "value": "https://t.me/ShrutiBots/91",
+      "value": "",
       "required": false
     },
     "COOKIE_URL": {
