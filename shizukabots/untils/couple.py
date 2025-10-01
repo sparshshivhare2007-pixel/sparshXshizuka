@@ -8,7 +8,7 @@ async def _get_lovers(cid: int):
 
 
 async def get_image(cid: int):
-    chat_data = coupledb.get(cid, {})
+    chat_data = coupledb.get(cid, {}) 
     image = chat_data.get("img", "")
     return image
 
