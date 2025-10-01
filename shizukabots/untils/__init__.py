@@ -10,7 +10,7 @@
 # Allowed:
 # - Forking for personal learning
 # - Submitting improvements via pull requests
-#
+# 
 # Not Allowed:
 # - Claiming this code as your own
 # - Re-uploading without credit or permission
