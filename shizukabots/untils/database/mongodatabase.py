@@ -1,9 +1,9 @@
-# Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
-# Location: Supaul, Bihar
+# Copyright (c) 2025 sparsh baniya <baniya>
+# Location: agra, up 
 #
 # All rights reserved.
 #
-# This code is the intellectual property of Nand Yaduwanshi.
+# This code is the intellectual property of sparsh baniya.
 # You are not allowed to copy, modify, redistribute, or use this
 # code for commercial or personal projects without explicit permission.
 #
@@ -17,12 +17,13 @@
 # - Selling or using commercially
 #
 # Contact for permissions:
-# Email: badboy809075@gmail.com
+# Email: sparshshivhare20007@gmail.com
+
 
 
 from typing import Dict, List, Union
 
-from ShrutiMusic.core.mongo import mongodb
+from sparshXshizuka.core.mongo import mongodb
 
 queriesdb = mongodb.queries
 userdb = mongodb.userstats
