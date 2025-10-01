@@ -1,6 +1,6 @@
 services:
   - type: worker
-    name: shrutimusic
+    name: sparshXshizuka
     runtime: python
     buildCommand: pip install --no-cache-dir -r requirements.txt
     startCommand: bash start
@@ -10,7 +10,7 @@ services:
       - key: API_HASH
         value: "f10822a551f38b26ee1179e1a6515e01"
       - key: BOT_TOKEN
-        value: "8322217849:AAF-NB3bUKREBPbgvb4ZfSxe8B3mN6PwTWk"
+        value: "apna dalo "
       - key: MONGO_DB_URI
         value: "mongodb+srv://pusers:nycreation@nycreation.pd4klp1.mongodb.net/?retryWrites=true&w=majority&appName=NYCREATION"
       - key: OWNER_ID
@@ -18,7 +18,7 @@ services:
       - key: OWNER_USERNAME
         value: "8158429107"
       - key: STRING_SESSION
-        value: "BQGS8vEAJudwdNtUCpkGNwjGvjsGAhDBkPtfSA0ULKVxBd0QYeQKjCKzlacwvZCfexL_mtBb9fv6C0VZfp3UeNozCu4zfoyVG5bo2qN7SjMmQhgQF6qwdqDG-D9qujJ4Il_N8BruEL_zKBMD94lugrsFTruNOAhG10O91PL_6gKa3gdR6mpRMXST-3vWhkVHubFdXqBo8JmY5XlWI3cMM9kFDeM2qUAXUVXJhcibwmPbreVBqAwxwCnLPHUWR8GC5wxUmE5K5DPn7TXbWbaOWnKsw5dI5PUdoFQqJejxYvNSs3lDVn1BEIZphj7B7c3GubD7wswgHifcjGhEdaLV4VptKo9R_gAAAAHmR7-zAA"
+        value: ""
       - key: GIT_TOKEN
         value: ""
       - key: HEROKU_API_KEY
