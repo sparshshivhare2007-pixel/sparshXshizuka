@@ -14,7 +14,7 @@
 # Not Allowed:
 # - Claiming this code as your own
 # - Re-uploading without credit or permission
-# - Selling or using commercially
+# - Selling or using commercially 
 #
 # Contact for permissions:
 # Email: sparshshivhare20007@gmail.com
